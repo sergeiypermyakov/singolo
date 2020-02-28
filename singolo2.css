@@ -146,3 +146,8 @@ section.about{
 .social a {
     width: 14%;
 }
+
+.social img:hover {
+    
+    opacity: 0.5;
+}
